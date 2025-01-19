@@ -1,5 +1,5 @@
 ## About The Project
-This is a job application management application. Authenticated users can securely store, manage, and organize their job applications with no limitations. All data is safely stored in Supabase, ensuring easy access and efficient tracking of application details across devices.
+This is a job application management application. Authenticated users can securely store, manage, and organize their job applications with no limitations. All data is safely stored in Firebase, ensuring easy access and efficient tracking of application details across devices.
 
 ### Built With
 
